@@ -12,8 +12,11 @@ To add a new node to the heap, first add it to the end of the heap and then rebu
 Let the last node be the current node;
 
 while (the current node is greater than its parent) {
+
     Swap the current node with its parent;
+    
     Now the current node is one level up;
+    
 }
 
 
