@@ -1,2 +1,2 @@
 # DataStructures
-Algorithms and Data Structures in Java and C++
+Algorithms and Data Structures in Java
